@@ -1,0 +1,26 @@
+/* Toda la página*/
+body {
+    font-family: 'Gill Sans', sans-serif;
+}
+
+/* Encabezados */
+h1 {
+    color: rgb(22, 98, 143);
+    font-size: 24px;
+}
+
+/* Párrafos */
+p {
+    color: rgb(47, 79, 82);
+    font-size: 16px;
+}
+
+/* Enlaces */
+a {
+    text-decoration: none;
+    color: rgb(84, 141, 146);
+}
+
+a:hover {
+    text-decoration: underline;
+}
